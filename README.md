@@ -10,7 +10,7 @@ Este site tem como objetivo divulgar a banda, apresentando informações sobre s
 - **GitHub Pages** para hospedagem  
 
 ## 🎥 Acesse o Site  
-🔗 [Clique aqui para ver a apresentação da Banda Félix](https://brun0k9.github.io/Banda_Felix/)  
+🔗 [Clique aqui para ver a apresentação da Banda Félix](https://brun0k9.github.io/Banda-Felix/)  
 
 ## 📞 Contato  
 📌 Fone: (11) 96611-8775 - Fábio  
